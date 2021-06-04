@@ -1,4 +1,4 @@
-### tyler
+### ⛩
 
 _18 year old **fullstack engineer** who's been coding for about 6 years now_
 
