@@ -6,7 +6,7 @@ _18 year old **fullstack engineer** who's been coding for about 6 years now_
 
 #
 
-#### 🔨 **Currently building:**
+### 🔨 **Currently building:**
 
 🕷 [**dscrd.info**](https://dscrd.info) &bull; completely rewriting **client** & **server** &bull; **typescript**
 
@@ -16,14 +16,14 @@ _18 year old **fullstack engineer** who's been coding for about 6 years now_
 
 #
 
-#### 📚 **Currently learning:**
+### 📚 **Currently learning:**
 <code><img alt="golang" width="30px" height="30px" src="https://github.com/get-icon/geticon/raw/master/icons/go.svg"></code>
 <code><img alt="postgresql" width="25px" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></code>
 <code><img alt="prisma" width="25px" height="25px" src="https://raw.githubusercontent.com/prisma/presskit/master/Logos/Logo%20White%20Symbol.svg" /></code>
 
 #
 
-#### 🎈 **Technologies i've gathered:**
+### 🎈 **Technologies i've gathered:**
 
 _notable langs, tools, services & more i've learnt throughout the years_
 
