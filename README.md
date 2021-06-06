@@ -8,11 +8,11 @@ _18 year old **fullstack engineer** who's been coding for about 6 years now_
 
 ### 🔨 **Currently building:**
 
-🕷 [**dscrd.info**](https://dscrd.info) &bull; completely rewriting **client** & **server** &bull; **typescript**
+🕷 [**dscrd.info**](https://dscrd.info) &bull; _completely rewriting **client** & **server**_
 
-🌌 **raye** &bull; _async in-memory caching via tcp_ &bull; **typescript**
+🌌 **raye** &bull; _fast, scalable & asynchronous **in-memory caching** via tcp_
 
-📜 **docket** &bull; _a social docket sharing app_ &bull; **typescript**
+📜 **docket** &bull; _a **social** docket sharing app_
 
 #
 
