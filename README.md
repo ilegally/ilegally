@@ -10,7 +10,7 @@ _18 year old **fullstack engineer** who's been coding for about 6 years now_
 
 🕷 [**dscrd.info**](https://dscrd.info) &bull; _completely rewriting **client** & **server**_
 
-🌌 **raye** &bull; _fast, scalable & async **in-memory caching** via tcp_
+🌌 **raye** &bull; _fast, async **in-memory caching** via tcp_
 
 📜 **docket** &bull; _a **social** docket sharing app_
 
