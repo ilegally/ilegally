@@ -21,6 +21,8 @@ _18 year old **fullstack engineer** who's been coding for about 6 years now_
 <code><img alt="postgresql" width="25px" height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" /></code>
 <code><img alt="prisma" width="25px" height="25px" src="https://raw.githubusercontent.com/prisma/presskit/master/Logos/Logo%20White%20Symbol.svg" /></code>
 
+> and soon **rust**
+
 #
 
 ### 🎈 **Technologies i've gathered:**
