@@ -8,7 +8,7 @@ _18 year old **fullstack engineer** who's been coding for about 6 years now_
 
 ### 🔨 **Currently building:**
 
-🕷 [**dscrd.info**](https://dscrd.info) &bull; _completely rewriting **client** & **server**_
+🕷 [**dscrd.info**](https://dscrd.info) &bull; _completely rewriting **client** & **server**_ &rarr; **PRIORITY**
 
 🌌 **raye** &bull; _fast **cache server**, written in go_
 
