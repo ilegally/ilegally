@@ -6,7 +6,7 @@ _18 year old **full stack engineer** who's been coding for about 6 years now_
 
 #
 
-### 🔨 **Working on:**
+### 💻 **Projects:**
 
 🖋 **quill** &bull; _an elegant, free-minded platform for writers._
 
