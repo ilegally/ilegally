@@ -8,11 +8,11 @@ _18 year old **full stack engineer** who's been coding for about 6 years now_
 
 ### 🔨 **Working on:**
 
+🖋 **quill** &bull; _an elegant, free-minded platform for writers._
+
 🕷 [**dscrd.info**](https://dscrd.info) &bull; _completely rewriting **client** & **server**_
 
 🌌 **raye** &bull; _fast **cache server**, written in go_
-
-📜 **docket** &bull; _a **social** docket sharing app_
 
 #
 
