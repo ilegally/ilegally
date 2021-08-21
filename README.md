@@ -8,7 +8,9 @@ _18 year old **full stack engineer** who's been coding for about 6 years now_
 
 ### 💻 **Projects:**
 
-🖋 **quill** &bull; _an elegant, free-minded platform for writers._
+🥢 **kuso** &bull; _a minimalistic bot hosting service_
+
+🖋 **quill** &bull; _an elegant, free-minded platform for writers_
 
 🕷 [**dscrd.info**](https://dscrd.info) &bull; _completely rewriting **client** & **server**_
 
