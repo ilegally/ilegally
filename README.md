@@ -1,6 +1,6 @@
 # ⛩
 
-_18 year old **full stack engineer** who's been coding for about 6 years now_
+_18 year old **full stack engineer*_
 
 > tend to keep my repos private
 
