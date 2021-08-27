@@ -19,7 +19,6 @@ _18 year old **full stack engineer**_
 #
 
 ### 📚 **Currently learning:**
-<code><img alt="golang" width="30px" height="30px" src="https://github.com/get-icon/geticon/raw/master/icons/go.svg"></code>
 <code><img alt="golang" width="26px" height="26px" src="http://rust-lang.org/logos/rust-logo-512x512.png"></code>
 
 #
@@ -33,6 +32,7 @@ _notable langs, frameworks, tools, services & more i've learnt throughout the ye
 <img align="left" alt="javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="golang" width="26px" src="https://github.com/get-icon/geticon/raw/master/icons/go.svg" />
 
 <br /><br />
 
