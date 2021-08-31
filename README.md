@@ -8,13 +8,14 @@ _18 year old **full stack engineer**_
 
 ### 💻 **Projects:**
 
+🌌 **raye** &bull; _a **pub/sub** server_
+
 🥢 **kuso** &bull; _a minimalistic bot hosting service_
 
 🖋 **quill** &bull; _an elegant, free-minded platform for writers_
 
 🕷 [**dscrd.info**](https://dscrd.info) &bull; _completely rewriting **client** & **server**_
 
-🌌 **raye** &bull; _fast **cache server**, written in go_
 
 #
 
