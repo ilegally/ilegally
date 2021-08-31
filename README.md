@@ -20,7 +20,9 @@ _18 year old **full stack engineer**_
 #
 
 ### 📚 **Currently learning:**
-<code><img alt="golang" width="26px" height="26px" src="http://rust-lang.org/logos/rust-logo-512x512.png"></code>
+<code><img alt="rust" width="26px" height="26px" src="http://rust-lang.org/logos/rust-logo-512x512.png"></code>
+
+> and soon **c**
 
 #
 
