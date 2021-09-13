@@ -14,7 +14,7 @@ _18 year old **full stack engineer**_
 
 🖋 **quill** &bull; _an elegant, free-minded platform for writers_
 
-🕷 [**dscrd.info**](https://dscrd.info) &bull; _completely rewriting **client** & **server**_
+🕷 ~~**dscrd.info**~~ &bull; _REMOVED_
 
 
 #
