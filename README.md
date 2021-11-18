@@ -26,7 +26,7 @@ _18 year old **full stack engineer**_
 
 #
 
-### 🤓 **Technologies i've gathered:**
+### 🤓 **Technologies:**
 
 _notable langs, frameworks, tools, services & more i've learnt throughout the years_
 
