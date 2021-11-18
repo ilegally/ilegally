@@ -8,11 +8,11 @@ _18 year old **full stack engineer**_
 
 ### 💻 **Projects:**
 
+🐱‍👤 **curious** &bull; _a modern curiouscat recode_
+
+🌙 **crescent** &bull; _a multi-purpose bot_
+
 🌌 **raye** &bull; _a **pub/sub** server_
-
-🥢 **kuso** &bull; _a minimalistic bot hosting service_
-
-🖋 **quill** &bull; _an elegant, free-minded platform for writers_
 
 🕷 ~~**dscrd.info**~~ &bull; _DISCONTINUED_
 
