@@ -10,7 +10,7 @@ _18 year old **full stack engineer**_
 
 🐱‍👤 **curious** &bull; _a modern curiouscat recode_
 
-🌙 **crescent** &bull; _a multi-purpose bot_
+🌙 **crescent** &bull; _a versatile bot_
 
 🌌 **raye** &bull; _a **pub/sub** server_
 
