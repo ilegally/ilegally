@@ -1,6 +1,6 @@
 # ⛩
 
-_18 year old **full stack engineer**_
+_19 year old **full stack engineer**_
 
 > tend to keep my repos private, due to working on like 5 unfinished projects at once
 
