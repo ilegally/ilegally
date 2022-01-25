@@ -4,18 +4,6 @@ _19 year old **full stack engineer**_
 
 > tend to keep my repos private, due to working on like 5 unfinished projects at once
 
-#
-
-### 💻 **Projects:**
-
-🐱‍👤 **curious** &bull; _a modern curiouscat recode_
-
-🌙 **crescent** &bull; _a versatile bot_
-
-🌌 **raye** &bull; _a **pub/sub** server_
-
-🕷 ~~**dscrd.info**~~ &bull; _DISCONTINUED_
-
 
 #
 
