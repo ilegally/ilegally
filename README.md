@@ -59,4 +59,4 @@ _notable langs, frameworks, tools, services & more i've learnt throughout the ye
 
 #
 
-###### ☂ current stack:&nbsp;&nbsp; node &bull; ts &bull; react &bull; next &bull; graphql &bull; apollo &bull; redis
+###### ☂ current stack:&nbsp;&nbsp; node &bull; ts &bull; react &bull; next &bull; trpc &bull; redis
