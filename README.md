@@ -43,7 +43,6 @@ _notable langs, frameworks, tools, services & more i've learnt throughout the ye
 <img align="left" alt="graphql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" />
 <img align="left" alt="apollo" width="26px" src="https://seeklogo.com/images/A/apollo-logo-DC7DD3C444-seeklogo.com.png" />
 <img align="left" alt="redis" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/redis-4-1175103.png" />
-<img align="left" alt="prisma" width="26px" src="https://raw.githubusercontent.com/prisma/presskit/master/Logos/Logo%20White%20Symbol.svg" />
 <img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
 <br /><br />
