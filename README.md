@@ -7,14 +7,14 @@ _19 year old **full stack engineer**_
 
 #
 
-### 📚 **Currently learning:**
+### learnin
 <code><img alt="rust" width="26px" height="26px" src="http://rust-lang.org/logos/rust-logo-512x512.png"></code>
 
 > and soon **c**
 
 #
 
-### 🤓 **Technologies:**
+### tech
 
 _notable langs, frameworks, tools, services & more i've learnt throughout the years_
 
