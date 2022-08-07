@@ -7,7 +7,7 @@ _19 year old **full stack engineer**_
 
 #
 
-### learnin
+### learning
 <code><img alt="rust" width="26px" height="26px" src="http://rust-lang.org/logos/rust-logo-512x512.png"></code>
 
 > and soon **c**
@@ -16,7 +16,7 @@ _19 year old **full stack engineer**_
 
 ### tech
 
-_notable langs, frameworks, tools, services & more i've learnt throughout the years_
+_langs, frameworks, tools, services & more_
 
 <img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
