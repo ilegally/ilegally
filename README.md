@@ -2,7 +2,7 @@
 
 _19 year old **full stack engineer**_
 
-> tend to keep my repos private, due to working on like 5 unfinished projects at once
+> tend to keep my repos private, 57 and counting
 
 
 #
