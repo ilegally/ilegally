@@ -2,15 +2,7 @@
 
 _19 year old **full stack engineer**_
 
-> tend to keep my repos private, 61 and counting
-
-
-#
-
-### learning
-<code><img alt="rust" width="26px" height="26px" src="http://rust-lang.org/logos/rust-logo-512x512.png"></code>
-
-> and soon **c**
+> mostly doing freelance work
 
 #
 
