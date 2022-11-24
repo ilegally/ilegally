@@ -1,6 +1,6 @@
 # ⛩
 
-_19 year old **full stack engineer**_
+_20 year old **software engineer** primarely focused on **full-stack development**_
 
 > mostly doing freelance work
 
