@@ -2,8 +2,6 @@
 
 _20 year old **software engineer** primarely focused on **full-stack development**_
 
-> mostly doing freelance work
-
 #
 
 ### tech
