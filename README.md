@@ -1,7 +1,4 @@
 # ⛩
-
-_21 year old **software engineer** primarely focused on **full-stack development** and **designing**_
-
 #
 
 ### tech
