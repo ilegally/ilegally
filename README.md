@@ -1,6 +1,6 @@
 # ⛩
 
-_20 year old **software engineer** primarely focused on **full-stack development**_
+_21 year old **software engineer** primarely focused on **full-stack development** and **designing**_
 
 #
 
